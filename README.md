@@ -1,4 +1,5 @@
 # ePortfolio
+Evidence is provided to support learning objectives
 1. Communicate effectively as part of a team 
 2. Define and demonstrate conflict management and resolution strategies
 3. Explain communication concepts and strategies
